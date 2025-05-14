@@ -1,6 +1,7 @@
 Enhancing Practicality and Efficiency of Deepfake Detection
 ==========================
 
+This repository contains all the necessary code to test or train the work presented in Balafrej, I., Dahmane, M. Enhancing practicality and efficiency of deepfake detection. Sci Rep 14, 31084 (2024). https://doi.org/10.1038/s41598-024-82223-y
 
 # Preprocessing
 
